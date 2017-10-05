@@ -1,10 +1,28 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  text-transform: uppercase;
+a {
+  color: #5d8432;
+}
+
 }
 b {
-  color: #5d8432
-}
-.intro {
   line-height: 1.5;
 }
+a,
+a:link {
+  color: #793284;
+  font-size: 1.125;
+  font-weight: bold;
+}
+a:hover {
+  color: #b42885;
+}
+img {
+  width: 100%
+}
+p {
+  text-align: center;
+  text-transform: none;
+  font-style: italic;
