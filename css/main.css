@@ -1,13 +1,14 @@
 html {
   background-color: #f2f1ed;
+  color: #5d8432;
   font-family: Georgia, serif;
   text-transform: uppercase;
-a {
+b {
   color: #5d8432;
 }
 
 }
-b {
+a {
   line-height: 1.5;
 }
 a,
@@ -15,6 +16,8 @@ a:link {
   color: #793284;
   font-size: 1.125;
   font-weight: bold;
+  text-transform: none;
+  text-decoration: none;
 }
 a:hover {
   color: #b42885;
