@@ -3,5 +3,8 @@ html {
   font-family: Georgia, serif;
 }
 b {
+  color: #5d8432
+}
+.intro {
   line-height: 1.5;
 }
