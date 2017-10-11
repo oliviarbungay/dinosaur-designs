@@ -1,13 +1,13 @@
 html {
   background-color: #f2f1ed;
-  color: #5d8432;
   font-family: Georgia, serif;
   text-transform: uppercase;
+}
 b {
   color: #5d8432;
 }
 
-}
+
 a {
   line-height: 1.5;
 }
