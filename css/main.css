@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: "Patua One", cursive;
+  font-family: 'PT Sans', sans-serif;
   text-transform: uppercase;
 }
 
@@ -24,6 +24,7 @@ a:link {
 
 }
 
+a,
 a:hover {
   color: #b42885;
 
